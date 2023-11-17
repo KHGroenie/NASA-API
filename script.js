@@ -133,8 +133,8 @@ function removeFavourite(itemUrl) {
     }
 }
 
-// On Load
-getNasaPictures();
+
+
 const { body } = document;
 
 function changeBackground(number) {
@@ -160,3 +160,5 @@ function changeBackground(number) {
             break;
     }
 }
+// On Load
+getNasaPictures();
